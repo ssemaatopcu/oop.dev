@@ -14,3 +14,4 @@ The logic by which the system performs these functions will be different for eac
 
 Using the polymorphism model, design a class diagram to handle the situation described above.
 
+![UML 2](https://github.com/ssemaatopcu/oop.dev/assets/72090045/49a2c8d3-915a-497f-b975-7f8932d22e92)
