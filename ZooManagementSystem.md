@@ -14,4 +14,9 @@ The logic by which the system performs these functions will be different for eac
 
 Using the polymorphism model, design a class diagram to handle the situation described above.
 
-![UML 2](https://github.com/ssemaatopcu/oop.dev/assets/72090045/49a2c8d3-915a-497f-b975-7f8932d22e92)
+<details>
+<summary>Zoo Management System UML Class Diagram</summary>
+<a href="https://app.gleek.io/diagrams/5Iptj-JAZuaqBfbGd8y2dg" target="_blank">
+ <img src="https://github.com/ssemaatopcu/oop.dev/assets/72090045/5c2612a5-b526-44da-8d24-3ae474d1aeeb"/>
+</a>
+</details>
